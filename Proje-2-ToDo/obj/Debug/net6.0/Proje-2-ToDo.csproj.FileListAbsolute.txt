@@ -1,0 +1,15 @@
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/bin/Debug/net6.0/Proje-2-ToDo
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/bin/Debug/net6.0/Proje-2-ToDo.deps.json
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/bin/Debug/net6.0/Proje-2-ToDo.runtimeconfig.json
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/bin/Debug/net6.0/Proje-2-ToDo.dll
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/bin/Debug/net6.0/Proje-2-ToDo.pdb
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/Proje-2-ToDo.csproj.AssemblyReference.cache
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/Proje-2-ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/Proje-2-ToDo.AssemblyInfoInputs.cache
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/Proje-2-ToDo.AssemblyInfo.cs
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/Proje-2-ToDo.csproj.CoreCompileInputs.cache
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/Proje-2-ToDo.dll
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/refint/Proje-2-ToDo.dll
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/Proje-2-ToDo.pdb
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/Proje-2-ToDo.genruntimeconfig.cache
+/Users/berker/Desktop/Pratikler/Proje-2-ToDo/obj/Debug/net6.0/ref/Proje-2-ToDo.dll
